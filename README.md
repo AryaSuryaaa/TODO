@@ -51,3 +51,4 @@ Join our community of developers creating universal apps.
 
 libraries
 npm i @react-native-async-storage/async-storage
+npx expo install expo-linear-gradient
