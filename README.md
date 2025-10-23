@@ -52,3 +52,7 @@ Join our community of developers creating universal apps.
 libraries
 npm i @react-native-async-storage/async-storage
 npx expo install expo-linear-gradient
+
+run this command:
+npx expo -> to start
+npx convex dev -> to start convex
